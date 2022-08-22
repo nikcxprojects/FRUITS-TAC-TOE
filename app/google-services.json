@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959037479307",
+    "project_id": "winline-r2-d2",
+    "storage_bucket": "winline-r2-d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959037479307:android:224e52b67b36a4c223378e",
+        "android_client_info": {
+          "package_name": "com.fruitstactoe.play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959037479307-4k7als5nlrfjeg0hpdbpnlkitp6dnocl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ59MScxWalh8I-MK2W07hk504BtShc14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959037479307-4k7als5nlrfjeg0hpdbpnlkitp6dnocl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

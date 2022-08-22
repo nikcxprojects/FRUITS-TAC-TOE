@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">WinLine</string>
+
+    <!--    -->
+    <string name="No_internet">Нет подключения к Интернету!</string>
+    <string name="No_internet_info">Попробуйте сделать следующее:</string>
+    <string name="No_internet_info_1"> - отключить режим полёта</string>
+    <string name="No_internet_info_2"> - включить Wi-fi или мобильный Интернет</string>
+    <string name="No_internet_info_3"> - проверьте уровень сиглана сети</string>
+
+    <!--    -->
+    <string name="splash_name">Загрузка</string>
+
+</resources>
